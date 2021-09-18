@@ -5,11 +5,11 @@ https://nasa.gob//sites/all/themes/custom/nasatwo/images/nasa-logo.svg
 A simple-to-use node.js client for NASA's data API.
 
 # Requirements 
+Need environments with node js version 14.17.6 LTS
 Get generate API Key https://api.nasa.gov/
 
-# install
+# Install
 From source:
-
     git clone git://https://github.com/gitues/NASAwebapi-earth-coordinates.git 
     cd NASAwebapi-earth-coordinates
     npm install

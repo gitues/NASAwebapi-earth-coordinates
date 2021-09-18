@@ -29,6 +29,9 @@ From source:
     
     In your browser go to http://localhost:3000/
 
+## Example
+![alt text](https://github.com/gitues/NASAwebapi-earth-coordinates/blob/master/public/nasa.png?raw=true)
+
 # library
 
 *1- Set up a project using Node.js and NPM

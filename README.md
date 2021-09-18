@@ -4,6 +4,9 @@ https://nasa.gob//sites/all/themes/custom/nasatwo/images/nasa-logo.svg
 
 A simple-to-use node.js client for NASA's data API.
 
+# requirement 
+Get generate API Key https://api.nasa.gov/
+
 # install
 From source:
 

@@ -10,6 +10,7 @@ From source:
     git clone git://https://github.com/gitues/NASAwebapi-earth-coordinates.git 
     cd NASAwebapi-earth-coordinates
     npm install
+    node src/app.js
 
 # library
 1- Set up a project using Node.js and NPM
